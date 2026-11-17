@@ -1,0 +1,13 @@
+Name: Screens
+Type: ScreensCategoryFolder
+Children:
+- Name: Page
+  Id: g=ea17b581198ebd4e32cb5524dbf7aa7a
+  Supertype: Screen
+  ReferenceType: HasComponent
+  Children:
+  - Name: BackgroundColor
+    Type: BaseDataVariableType
+    DataType: Color
+    ModellingRule: Optional
+    Value: "#e4e4e4"

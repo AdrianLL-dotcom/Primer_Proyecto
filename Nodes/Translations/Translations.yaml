@@ -1,0 +1,69 @@
+Name: Translations
+Type: TranslationsCategoryFolder
+Children:
+- Name: LocalizationDictionary1
+  Type: LocalizationDictionary
+  DataType: String
+  ValueRank: OneOrMoreDimensions
+  ArrayDimensions: [0,0]
+  Value: 
+   {
+    "Type": 12,
+    "Dimensions": [54,2],
+    "Body": [
+     "","en-US",
+     "Value","Value",
+     "Thickness","Thickness",
+     "TimeTrace","Time Trace",
+     "Enabled","Enabled",
+     "XAxis Interactive","XAxis Interactive",
+     "LegendVisible","LegendVisible",
+     "YAxisInteractive","YAxisInteractive",
+     "Follow","Follow",
+     "Trend","Trend",
+     "Min","Min",
+     "DateAndTime","Date and time",
+     "PenXTimeWindow","X Axis Time Window",
+     "ClearTimeRanges","Clear Time Ranges",
+     "Autoscale","Autoscale",
+     "Max","Max",
+     "Right","Right",
+     "Left","Left",
+     "Pen","Pen",
+     "Position","Position",
+     "End","End",
+     "Statistics","Statistics",
+     "SnapPosition","Snap Position",
+     "Mode","Mode",
+     "Normal","Normal",
+     "Center","Center",
+     "ClearTimeTraces","Clear Time Traces",
+     "TimeRange","Time Range",
+     "YAxis","Y Axis",
+     "Apply","Apply",
+     "Red","Red",
+     "Green","Green",
+     "Timespan","Timespan",
+     "Blue","Blue",
+     "Alpha","Alpha",
+     "Interactive","Interactive",
+     "Avg","Avg",
+     "Ranges","Ranges",
+     "Start","Start",
+     "Pens","Pens",
+     "Background","Background",
+     "Thresholds","Thresholds",
+     "Color","Color",
+     "ISAStyleSheetButtonStylesCommandDescription","A command button is typically used to execute a function or change of state in the controller",
+     "ISAStyleSheetButtonStylesNavigationDescription","Buttons to navigate between HMI displays or panels",
+     "ISAStyleSheetLabelStylesLiveDataPrimaryDescription","Live data for the main piece of information on a display",
+     "ISAStyleSheetButtonStylesCommandFeedbackDescription","Button appearance when the device is already in the state which the button commands.",
+     "ISAStyleSheetLabelStylesEmphasizedDescription","A command button is typically used to execute a function or change of state in the controller",
+     "ISAStyleSheetLabelStylesDataDescription","Live data labels, toggle on/off labels",
+     "ISAStyleSheetLabelStylesLiveDataDescription","Live data that is not the primary value",
+     "ISAStyleSheetLabelStylesDeemphasizedDescription","Engineering units, footnotes",
+     "ISAStyleSheetLabelStylesHeadingDescription","Section headings, according headings",
+     "ISAStyleSheetLabelStylesWarningDescription","Warning states",
+     "ISAStyleSheetLabelStylesFaultDescription","Fault states"
+    ]
+   }
